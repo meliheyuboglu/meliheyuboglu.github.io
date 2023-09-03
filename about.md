@@ -1,55 +1,51 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+***
+<p>I have a keen interest in the field of cybersecurity and am actively striving to learn new things as much as possible. Currently, i am improving myself with free resources like Tryhackme, LetsDefend etc. </p>
 
 ## Education
+***
+<b> Turkish-German University </b> <br>
+<b>Computer Science - Bachelor Degree</b> <br>
+   Sep 2019 - estimated Jun 2025
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
 
-## Roles
+## Experience
+***
+<b> Jr. Cyber Threat Intelligence Analyst </b> <br>
+<b> ThreatMon,  May 2023 - Jun 2023 </b>
+<p> I received basic education in the field of cyber threat intelligence and completed a one-and-a-half-month internship. During this internship, I had the opportunity to engage in open-source intelligence (OSINT) research as well as perform open port scans and vulnerability scans on specific domain addresses.
+</p>
 
-Founder, ABC Organisation
+## Languages
+***
+* **English**
+* **German** 
 
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
     
     
-## Achievements
-
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+## Certificates
 ***
 
-* [**This is my second achievement**](#) 
+* **TestDaF Zertifikat** <br> *Knowledge in German B2-C1 (TDN3)* 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* **Cybersecurity Analyst Program Participant** <br> *That was a bootcamp from akbank that includes subjects like Linux, Network and Cybersecurityanalyst stuffs.*
 
-***
+* **Jr. Penetration Tester** <br> *TryHackMe Jr.Penetration Tester Path's Certificate*
 
-* [**This is my third achievement**](#) 
+* **CCNA: Introduction to Networks** <br> *Cisco Networking Academy*
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+* **NDG Linux Unhatched** <br> *Cisco Networking Academy*
 
+* **Introduction to Cybersecurity** <br> *Cisco Networking Academy*
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+meliheyuboglu1@gmail.com 
+
+<style>
+
+</style>
