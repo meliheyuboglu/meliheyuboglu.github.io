@@ -19,7 +19,7 @@ footer-links:
   email: meliheyuboglu1@gmail.com
   facebook:
   flickr:
-  github: 
+  github: meliheyuboglu
   instagram:
   linkedin: meliheyuboglu
   pinterest:
@@ -71,6 +71,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+favicon: images\favicon3.png
 
 # Exclude these files from your production _site
 exclude:
