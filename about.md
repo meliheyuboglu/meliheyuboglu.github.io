@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 ***
-<p>I have a keen interest in the field of cybersecurity and am actively striving to learn new things as much as possible. Currently, i am improving myself with free resources like Tryhackme, LetsDefend etc. </p>
+<p>I have a keen interest in the field of cybersecurity and am actively striving to learn new things as much as possible. Currently, i am improving myself with free resources like Tryhackme, LetsDefend etc. I will be sharing my research and development on my Blog Page.</p>
 
 ## Education
 ***
