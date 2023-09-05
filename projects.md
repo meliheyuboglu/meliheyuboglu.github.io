@@ -25,7 +25,7 @@ In this project, me and my friend developed an application with java spring fram
 
 # Other Achievements
 
-I enjoy learning things on tryhackme platform and solving ctf. The screenshot below is the badges that belong to me on the tryhackme platform.
+I enjoy learning things on tryhackme platform and solving CTF Challenges. The screenshot below is the badges that belong to me on the tryhackme platform.
 
 ![TryHackMeBadges](/images/TryHackMeBadges.png)
 
