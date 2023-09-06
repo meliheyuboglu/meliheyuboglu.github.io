@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 ***
-<p>I have a keen interest in the field of cybersecurity and am actively striving to learn new things as much as possible. Currently, I am improving myself with free resources like Tryhackme, LetsDefend etc. I will be sharing my research and development on my blog page.</p>
+I have a keen interest in the field of cybersecurity and am actively striving to learn new things as much as possible. Currently, I am improving myself with free resources like Tryhackme, LetsDefend etc. I will be sharing my research and development on my [blog](https://meliheyuboglu.github.io/) page.
 
 ## Education
 ***
@@ -17,8 +17,8 @@ permalink: /about/
 ***
 <b> Jr. Cyber Threat Intelligence Analyst </b> <br>
 <b> ThreatMon,  May 2023 - Jun 2023 </b>
-<p> I received basic education in the field of cyber threat intelligence and completed a one-and-a-half-month internship. During this internship, I had the opportunity to engage in open-source intelligence (OSINT) research as well as perform open port scans and vulnerability scans on specific domain addresses.
-</p>
+I received basic education in the field of cyber threat intelligence and completed a one-and-a-half-month internship. During this internship, I had the opportunity to engage in open-source intelligence (OSINT) research as well as perform open port scans and vulnerability scans on specific domain addresses.
+
 
 ## Languages
 ***
