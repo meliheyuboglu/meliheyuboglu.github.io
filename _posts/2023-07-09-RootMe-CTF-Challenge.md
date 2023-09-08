@@ -1,7 +1,8 @@
 ---
 layout: post
-title: RootMe CTF Challenge
+title: RootMe CTF
 author: Melih Eyuboglu
+image: /images/RootMeImages/RootMeIcon.png
 ---
 
 This blog is about the solution for the [RootMe CTF](https://tryhackme.com/room/rrootme) Challenge on the TryHackMe platform.
