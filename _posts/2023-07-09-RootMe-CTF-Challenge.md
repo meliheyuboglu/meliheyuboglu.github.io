@@ -71,6 +71,7 @@ The screenshot of the panel directory looks like this.
 __*The Answer is /panel/*__
 
 ## <span style="color:green;">Task 3</span> Getting a shell
+-----
 
 Find a form to upload and get a reverse shell, and find the flag.
 
