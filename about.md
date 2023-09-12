@@ -32,7 +32,7 @@ I received basic education in the field of cyber threat intelligence and complet
 
 * **TestDaF Zertifikat** <br> *Knowledge in German B2-C1 (TDN3)* 
 
-* **Cybersecurity Analyst Program Participant** <br> *That was a bootcamp from akbank that includes subjects like Linux, Network and Cybersecurityanalyst stuffs.*
+* **Cybersecurity Analyst Program Participant** <br> *That was a bootcamp from Akbank that includes subjects like Linux, Network and Cybersecurity Analyst stuffs.*
 
 * **Jr. Penetration Tester** <br> *TryHackMe Jr.Penetration Tester Path's Certificate*
 
