@@ -27,6 +27,7 @@ In this project, me and my friend developed an application with java spring fram
 
 I enjoy learning things on tryhackme platform and solving CTF Challenges. These are the badges that belong to me on the tryhackme platform.
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/melih.eyuboglu.png" alt="TryHackMe">
 ![TryHackMeBadges](/images/TryHackMeBadges.png)
 
 ## Contact me
