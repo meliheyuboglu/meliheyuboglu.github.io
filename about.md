@@ -8,15 +8,16 @@ I have a keen interest in the field of cybersecurity and am actively striving to
 
 ## Education
 ***
-<b> Turkish-German University </b> <br>
-<b>Computer Science - Bachelor Degree</b> <br>
-   Sep 2019 - estimated Jun 2025
+**Turkish-German University** <br>
+***Computer Science - Bachelor Degree***<br>
+Sep 2019 - estimated Jun 2025
 
 
 ## Experience
 ***
-<b> Jr. Cyber Threat Intelligence Analyst </b> <br>
-<b> ThreatMon,  May 2023 - Jun 2023 </b>
+**Jr. Cyber Threat Intelligence Analyst** <br>
+***ThreatMon,  May 2023 - Jun 2023***
+
 I received basic education in the field of cyber threat intelligence and completed a one-and-a-half-month internship. During this internship, I had the opportunity to engage in open-source intelligence (OSINT) research as well as perform open port scans and vulnerability scans on specific domain addresses.
 
 
