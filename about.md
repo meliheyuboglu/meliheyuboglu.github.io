@@ -4,7 +4,11 @@ title: About Me
 permalink: /about/
 ---
 ***
-I have a keen interest in the field of cybersecurity and am actively striving to learn new things as much as possible. Currently, I am improving myself with free resources like Tryhackme, LetsDefend etc. I will be sharing my research and development on my [blog](https://meliheyuboglu.github.io/) page.
+I am a third-year Computer Science student at Turkish-German University and have the privilege of leading the Software Department within our university's Teknofest team. 
+
+My experience in teamwork is extensive, stemming from both my past internships and my involvement in the university's Teknofest team. To further enhance my skills, I am actively engaged in self-improvement through valuable resources such as Tryhackme and LetsDefend. These initiatives reflect my commitment to continuous learning and growth in the field of computer science. 
+
+I will be sharing my research and development on my [blog](https://meliheyuboglu.github.io/) page.
 
 ## Education
 ***
