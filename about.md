@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 ***
-I am a third-year Computer Science student at Turkish-German University and have the privilege of leading the Software Department within our university's Teknofest team. 
+I am a third-year computer science student at the Turkish-German University. My passion and interest lie in the field of computer science, driven by my belief in the constantly evolving dynamics and opportunities of the technology world.
 
-My experience in teamwork is extensive, stemming from both my past internships and my involvement in the university's Teknofest team. To further enhance my skills, I am actively engaged in self-improvement through valuable resources such as Tryhackme and LetsDefend. These initiatives reflect my commitment to continuous learning and growth in the field of computer science. 
+Throughout my education, I have had the opportunity to delve deep into subjects such as programming languages, data structures, algorithms, and software development processes. Additionally, I have been involved in various projects to enhance my project management, problem-solving, and communication skills. Transforming my knowledge in computer science into practical applications and staying updated with the latest developments in the field is the focal point of my career.
 
 I will be sharing my research and development on my [blog](https://meliheyuboglu.github.io/) page.
 
