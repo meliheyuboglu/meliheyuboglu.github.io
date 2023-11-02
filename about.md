@@ -19,10 +19,20 @@ Sep 2019 - estimated Jun 2025
 
 ## Experience
 ***
+
+**Jr. SAP Developer & IS-U Consultant** <br>
+***FairConsult 24|7 GmbH ***
+
+***
+
 **Jr. Cyber Threat Intelligence Analyst** <br>
 ***ThreatMon,  May 2023 - Jun 2023***
 
-I received basic education in the field of cyber threat intelligence and completed a one-and-a-half-month internship. During this internship, I had the opportunity to engage in open-source intelligence (OSINT) research as well as perform open port scans and vulnerability scans on specific domain addresses.
+
+***
+
+
+
 
 
 ## Languages
