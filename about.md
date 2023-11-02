@@ -21,15 +21,15 @@ Sep 2019 - estimated Jun 2025
 ***
 
 **Jr. SAP Developer & IS-U Consultant** <br>
-***FairConsult 24|7 GmbH ***
+***FairConsult 24|7 GmbH***
 
-***
+
 
 **Jr. Cyber Threat Intelligence Analyst** <br>
 ***ThreatMon,  May 2023 - Jun 2023***
 
 
-***
+
 
 
 
