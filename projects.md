@@ -21,13 +21,6 @@ In the course of this project, my colleague and I collaboratively engineered an 
 
 ***
 
-# Other Achievements
-
-I derive great satisfaction from engaging in educational pursuits on the TryHackMe platform, actively participating in the resolution of Capture The Flag (CTF) challenges. Below are the badges I have earned as recognition of my achievements on the TryHackMe platform.
-
-<script src="https://tryhackme.com/badge/883974"></script>
-![TryHackMeBadges](/images/TryHackMeBadges.png)
-
 ## Contact me
 
 *meliheyuboglu1@gmail.com*
